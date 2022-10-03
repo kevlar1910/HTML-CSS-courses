@@ -50,12 +50,12 @@ body {
   font-weight: 700;
 }
 
-.intro_content p {
+.skills {
   line-height: 2rem;
   font-size: 1.3rem;
 }
 
-.intro_content .motto {
+.motto {
   font-size: 1rem;
   margin-top: 3rem;
   font-style: italic;
